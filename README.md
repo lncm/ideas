@@ -1,2 +1,5 @@
-# ideas
-Ideas for things to be built on meetups.
+# Ideas
+
+Ideas for the stuff to be built/done/researched on the monthly/bi-weekly Chiang Mai meetups.
+
+All ideas in Issues; one issue == one idea :).
