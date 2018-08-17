@@ -8,10 +8,13 @@ All ideas in Issues; one issue == one idea :).
 
 | date | venue | occasion | description | food available | 
 |-:|-:|:-|:-|:-:|
-| Aug&nbsp;1st| ??? | SegWit lock-in 1st anniversary | intro event - getting everyone to get to know each other | 🥩|
-| Aug&nbsp;24th | ??? | SegWit activation 1st anniversary | LN payment terminal - build a RBP-based payment terminal handling user interaction via e-paper display | 🥩&nbsp;➕&nbsp;🥃 |
+| Aug&nbsp;1st| [Ryan's] | SegWit lock-in 1st anniversary | intro event - getting everyone to get to know each other | 🥩|
+| Aug&nbsp;24th | [Ryan's] | SegWit activation 1st anniversary | LN payment terminal - build a RBP-based payment terminal handling user interaction via e-paper display | 🥩&nbsp;➕&nbsp;🥃 |
 
-**Note:** All official announcements will either happen via commits to this repository or on Twitter: https://twitter.com/_lncm
+**Note:** All official announcements will either happen via commits to this repository or on Mastodon [@lncm@bitcoinhackers.org]
+
+[Ryan's]: https://goo.gl/maps/UCZckZyxcuN2
+[@lncm@bitcoinhackers.org]: https://bitcoinhackers.org/@lncm
 
 # Discussions
 
