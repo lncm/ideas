@@ -13,11 +13,12 @@ All ideas in Issues; one issue == one idea :).
 | See [#10] | ??? | - | ??? | 🥩|
 | Oct&nbsp;2nd | ??? | #FreeRoss Day | ??? | 🥩|
 
-**Note:** All official announcements will either happen via commits to this repository or on Mastodon [@lncm@bitcoinhackers.org]
+**Note:** All official announcements will either happen via commits to this repository, on Mastodon [@lncm@bitcoinhackers.org] or Twitter [@lncnx].
 
 [Ryan's]: https://goo.gl/maps/UCZckZyxcuN2
 [#10]: https://github.com/lncm/ideas/issues/10
 [@lncm@bitcoinhackers.org]: https://bitcoinhackers.org/@lncm
+[@lncnx]: https://twitter.com/lncnx
 
 # Discussions
 
