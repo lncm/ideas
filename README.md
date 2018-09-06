@@ -6,7 +6,7 @@ All ideas in Issues; one issue == one idea :).
 
 # Events schedule
 
-| date | venue | occasion | description | food available | 
+| date | venue | occasion | description | food available |
 |-:|-:|:-|:-|:-:|
 | Aug&nbsp;1st&nbsp;(Wed) | Ryan's | SegWit lock-in 1st anniversary | intro event - getting everyone to get to know each other | 🥩|
 | Aug&nbsp;24th&nbsp;(Fri) | Ryan's | SegWit&nbsp;activation 1st anniversary | LN payment terminal - build a RBP-based payment terminal handling user interaction via e-paper display | 🥩&nbsp;➕&nbsp;🥃 |
@@ -19,6 +19,12 @@ All ideas in Issues; one issue == one idea :).
 ["The Box"]: https://github.com/lncm/ideas/issues/1
 [@lncm@bitcoinhackers.org]: https://bitcoinhackers.org/@lncm
 [@lncnx]: https://twitter.com/lncnx
+
+# Bitcoin & Lightning Network Nodes
+
+To connect to one of our nodes, see the [wiki here].
+
+[wiki here]: https://github.com/lncm/ideas/wiki/Nodes
 
 # Discussions
 
