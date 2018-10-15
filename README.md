@@ -12,6 +12,7 @@ All ideas in Issues; one issue == one idea :).
 | Aug&nbsp;24th&nbsp;(Fri) | Ryan's | SegWit&nbsp;activation 1st anniversary | LN payment terminal - build a RBP-based payment terminal handling user interaction via e-paper display | 🥩&nbsp;➕&nbsp;🥃 |
 | Sep&nbsp;17th&nbsp;(Mon) | Ryan's | Not&nbsp;a&nbsp;Weekend | Putting ["The Box"] things together. Maybe adding a display. Testing it out on testnet & mainnet | 🥩|
 | Oct&nbsp;2nd&nbsp;(Tue) | Ryan's | #FreeRoss Day | The usual LN stuff & maybe Ryan will share an insight or two about Baltic Honey Badger | 🥩|
+| Oct&nbsp;24th&nbsp;(Wed) | Ryan's | Crash of 1929 | Discuss news from Scaling Bitcoin 2018, The Box and PoS system | 🥩|
 
 **Note:** All official announcements will either happen via commits to this repository, on Mastodon [@lncm@bitcoinhackers.org] or Twitter [@lncnx].
 
