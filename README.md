@@ -13,6 +13,7 @@ All ideas in Issues; one issue == one idea :).
 | Sep&nbsp;17th&nbsp;(Mon) | Ryan's | Not&nbsp;a&nbsp;Weekend | Putting ["The Box"] things together. Maybe adding a display. Testing it out on testnet & mainnet | 🥩|
 | Oct&nbsp;2nd&nbsp;(Tue) | Ryan's | #FreeRoss Day | The usual LN stuff & maybe Ryan will share an insight or two about Baltic Honey Badger | 🥩|
 | Oct&nbsp;24th&nbsp;(Wed) | Ryan's | Crash of 1929 | Discuss news from Scaling Bitcoin 2018, The Box and PoS system | 🥩|
+| Jan&nbsp;9thth | Satoshi House (?) | [Genesis Block](https://blockchair.com/bitcoin/block/00000000839a8e6886ab5951d76f411475428afc90947ee320161bbf18eb6048) Day | 10 year anniversary of bitcoin  |  |
 
 **Note:** All official announcements will either happen via commits to this repository, on Mastodon [@lncm@bitcoinhackers.org] or Twitter [@lncnx].
 
