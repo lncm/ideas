@@ -13,7 +13,7 @@ All ideas in Issues; one issue == one idea :).
 | Sep&nbsp;17th&nbsp;(Mon) | Ryan's | Not&nbsp;a&nbsp;Weekend | Putting ["The Box"] things together. Maybe adding a display. Testing it out on testnet & mainnet | 🥩|
 | Oct&nbsp;2nd&nbsp;(Tue) | Ryan's | #FreeRoss Day | The usual LN stuff & maybe Ryan will share an insight or two about Baltic Honey Badger | 🥩|
 | Oct&nbsp;24th&nbsp;(Wed) | Ryan's | Crash of 1929 | Discuss news from Scaling Bitcoin 2018, The Box and PoS system | 🥩|
-| Jan&nbsp;28th&nbsp;(Mon) | [Food4Thought](https://goo.gl/maps/KPpCwtHcaS92) | #MakeAliceGrinAgain | Let's talk about how we can move Lightning forward in Chiang Mai |🍽➕🍺|
+| Jan&nbsp;28th&nbsp;(Mon) | [Food4Thought](https://goo.gl/maps/KPpCwtHcaS92)@16:30 | #MakeAliceGrinAgain | Let's talk about how we can move Lightning forward in Chiang Mai! |🍽➕🍺|
 
 **Note:** All official announcements will either happen via commits to this repository, on Mastodon [@lncm@bitcoinhackers.org] or Twitter [@lncnx].
 
