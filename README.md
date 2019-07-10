@@ -1,4 +1,4 @@
-![https://raw.githubusercontent.com/lncm/ideas/master/bitcoin-lightning-accepted.svg]
+![Lightning Accepted Here](https://raw.githubusercontent.com/lncm/ideas/master/bitcoin-lightning-accepted.png)
 
 # Ideas
 
