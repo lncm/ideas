@@ -1,3 +1,5 @@
+![https://raw.githubusercontent.com/lncm/ideas/master/bitcoin-lightning-accepted.svg]
+
 # Ideas
 
 Ideas for the stuff to be built/done/researched on the monthly/bi-weekly Chiang Mai meetups.
