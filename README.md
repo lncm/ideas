@@ -6,6 +6,8 @@ Ideas for the stuff to be built/done/researched on the monthly/bi-weekly Chiang 
 
 All ideas in Issues; one issue == one idea :).
 
+For the bitcoin only meetup, check out [this link](#bitcoin-only-meetup)
+
 # Events schedule
 
 | date | venue | occasion | description | food available |
