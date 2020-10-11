@@ -24,6 +24,17 @@ All ideas in Issues; one issue == one idea :).
 [@lncm@bitcoinhackers.org]: https://bitcoinhackers.org/@lncm
 [@lncnx]: https://twitter.com/lncnx
 
+## Bitcoin Only Meetup
+
+In light of the old bitcoin only meetup not running, we would like to ressurect this, and also get some bitcoin only discussion again.
+
+The format is free for all, and ideally will rotate venues to showcase and support bitcoin only meetups. Please message **@nolim1t** on telegram or discord (ID: *nolim1t#2650* or pop into [this server](https://discord.gg/2qcBpH) ) and do share your place. Ideally we are looking at places which offer a discount for bitcoin users. We are also happy to assist in setting up your business for accepting bitcoin for free.
+
+| date | venue | occasion | description | food available |
+|-:|-:|:-|:-|:-:|
+| October 28th | [Sababa Restaurant](https://g.page/SababaCM?share) | Bitcoin Only 2.0 Meetup #1 | 🥩🌱 |
+
+
 # Bitcoin & Lightning Network Nodes
 
 To connect to one of our nodes, see the [wiki here].
