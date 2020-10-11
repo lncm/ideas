@@ -32,8 +32,7 @@ The format is free for all, and ideally will rotate venues to showcase and suppo
 
 | date | venue | occasion | description | food available |
 |-:|-:|:-|:-|:-:|
-| October 28th | [Sababa Restaurant](https://g.page/SababaCM?share) | Bitcoin Only 2.0 Meetup #1 | 🥩🌱 |
-
+| October 28th | [Sababa Restaurant](https://g.page/SababaCM?share) | Bitcoin Only 2.0 Meetup #1 | First of the Bitcoin only 2.0 series. Will host this at Sababa at 7pm. This venue accepts lightning and bitcoin and has many options. | 🥩🌱 |
 
 # Bitcoin & Lightning Network Nodes
 
