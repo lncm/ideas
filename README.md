@@ -36,7 +36,7 @@ Ideally we are looking at places which offer a discount for bitcoin users. We ar
 
 | date | venue | occasion | description | food available |
 |-:|-:|:-|:-|:-:|
-| October 28th | [Sababa Restaurant](https://g.page/SababaCM?share) | Bitcoin Only 2.0 Meetup #1 | First of the Bitcoin only 2.0 series. Will host this at Sababa at 7pm. This venue accepts lightning and bitcoin and has many options for food. | 🥩🌱➕🍺➕⚡️ |
+| October 28th | [Sababa Restaurant](https://g.page/SababaCM) - tentative | Bitcoin Only 2.0 Meetup #1 | First of the Bitcoin only 2.0 series. Will host this at Sababa at 7pm. This venue accepts lightning and bitcoin and has many options for food. | 🥩🌱➕🍺➕⚡️ |
 
 # Bitcoin & Lightning Network Nodes
 
