@@ -34,6 +34,10 @@ For the bitcoin only meetup, check out [this link](#bitcoin-only-meetup)
 
 Future meetups will be announced in [this announce only telegram group](https://t.me/cmbtcevents), will look at other options soon.
 
+or please scan the following link:
+
+![Telegram group](https://raw.githubusercontent.com/nolim1t/ideas/add-link-to-telegram/lncm-qr.png)
+
 # Bitcoin & Lightning Network Nodes
 
 To connect to one of our nodes, see the [wiki here].
