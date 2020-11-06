@@ -36,7 +36,7 @@ Future meetups will be announced in [this announce only telegram group](https://
 
 or please scan the following link:
 
-[![Telegram group](https://raw.githubusercontent.com/nolim1t/ideas/add-link-to-telegram/lncm-qr.png)](https://t.me/cmbtcevents)
+[![Telegram group](https://raw.githubusercontent.com/lncm/ideas/master/lncm-qr.png)](https://t.me/cmbtcevents)
 
 # Bitcoin & Lightning Network Nodes
 
