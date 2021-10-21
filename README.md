@@ -31,7 +31,7 @@ For the bitcoin only meetup, check out [this link](#bitcoin-only-meetup)
 | date | venue | occasion | description | food available |
 |-:|-:|:-|:-|:-:|
 | October 28th | [Sababa Restaurant](https://g.page/SababaCM) - tentative | Bitcoin Only 2.0 Meetup #1 | First of the Bitcoin only 2.0 series. Will host this at Sababa at 7pm. This venue accepts lightning and bitcoin and has many options for food. | 🥩🌱➕🍺➕⚡️ |
-| November 15th | [Corner Bistro](https://goo.gl/maps/DjMDdakngBFcdFMe6) | [Taproot / ATH Networking Meetup](https://www.facebook.com/events/299689758241332) | First meetup post covid19 restrictions. The venue will host from 16:20 onwards and will accept lightning and bitcoin payments | 🥩🌱➕🍺➕⚡️ |
+| November 15th | [Corner Bistro](https://goo.gl/maps/DjMDdakngBFcdFMe6) | Taproot / ATH Networking Meetup [(1)](https://www.facebook.com/events/299689758241332) | First meetup post covid19 restrictions. The venue will host from 16:20 onwards and will accept lightning and bitcoin payments | 🥩🌱➕🍺➕⚡️ |
 Future meetups will be announced in [this announce only telegram group](https://t.me/cmbtcevents), will look at other options soon.
 
 or please scan the following link:
