@@ -1,5 +1,7 @@
 ![Lightning Accepted Here](https://raw.githubusercontent.com/lncm/ideas/master/bitcoin-lightning-accepted.png)
 
+[![Gitter](https://badges.gitter.im/lncm/community.svg)](https://gitter.im/lncm/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # Ideas
 
 Ideas for the stuff to be built/done/researched on the monthly/bi-weekly Chiang Mai meetups.
